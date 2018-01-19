@@ -1,0 +1,35 @@
+    <title>benim sayfam</title>
+
+* ul tagı ile başlıyoruz. sırasız liste anlamına geliyor. 
+<p>li tagları yer alabilir.</p>
+<p>li: liste tagı olacak. </p>
+<p> yine p koyarak, her birini paragraf haline getiriyoruz </p>
+<p> başlangıcı yapacağım için önce ul parantez içinde yazmam ve ardından kapatmam gerekiyor </p>
+<p> ardından da li ile, farklı bir satır olan yuvarlaklarda yapmamıza yarayacak. </p>
+<p> ek olarak açıklama eklme satırı eklemeyi de istiyorum. bu "<!--" ile başlayacak  "-->" bitecek </p>
+<p>dikkat edilmesi gereken eğer ki renkler yeşil oluyor ise; o kodu açıklama satırı olaak görüyor ve kodlama kısmında çalışmaz hale geliyor</p>
+<p> bir üst satırda iki tane '' görmemizin sebebii açıklama satırı olarak algılaması ama notepad kısmında görebiliriz bunu saece kullanıcıya bu gitmez </p>
+
+buradan sonrası kod kısmı
+
+<!doctype html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+</head>
+	<body>
+	Hey Puiv!
+	
+	<hr/>
+	
+	<ul> 
+	<li> bu birincisi </li>
+	<li> bu ikincisi </li>
+	<li> bu üçüncüsü </li>
+	
+</body>
+</html>
